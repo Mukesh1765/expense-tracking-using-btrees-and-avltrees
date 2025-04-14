@@ -1,0 +1,25 @@
+14,Nick Harris,5100.00
+3,Carol Smith,4800.00
+22,Victor Reed,5600.00
+8,Henry Adams,5800.00
+16,Paul Carter,5400.00
+12,Leo Martin,5900.00
+7,Grace Taylor,4900.00
+5,Eva Davis,5200.00
+1,Alice,5500.00
+21,Uma Foster,6700.00
+4,David Brown,7200.00
+18,Rose Baker,5700.00
+11,Kelly White,7000.00
+23,Wendy Hall,6900.00
+19,Sam Cooper,6400.00
+9,Iris Clark,6100.00
+6,Frank Miller,6500.00
+24,Xavier Gray,5200.00
+10,Jack Lewis,5300.00
+15,Olivia King,6800.00
+2,Bob Wilson,6000.00
+25,Yara Scott,6600.00
+20,Tara Morgan,5000.00
+13,Mary Turner,6300.00
+17,Quinn Evans,6200.00

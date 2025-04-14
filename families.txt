@@ -1,0 +1,10 @@
+6,King Family,4,15,16,17,18
+9,Gray Family,1,24
+3,Miller Family,4,6,7,8,9
+1,Johnson Family,3,1,2,3
+5,Turner Family,2,13,14
+10,Scott Family,1,25
+7,Cooper Family,3,19,20,21
+2,Brown Family,2,4,5
+8,Reed Family,2,22,23
+4,White Family,3,10,11,12
