@@ -140,7 +140,7 @@ typedef struct family_node {
 ## 🧪 Compilation & Execution
 
 ```bash
-gcc projextTrees.c -o expense_tracker
+gcc projectTrees.c -o expense_tracker
 ./expense_tracker
 ```
 
